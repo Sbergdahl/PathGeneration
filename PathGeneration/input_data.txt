@@ -1,7 +1,4 @@
-0,0,4,0,line
-4,0,5,1,ellipse
-5,1,5,4,line
-5,4,4,5,ellipse
-4,5,1,5,line
-1,5,0,4,ellipse
-0,4,0,0,line
+0,0,2,2,line
+2,2,4,0,line
+4,0,2,-2,line
+2,-2,0,0,line
